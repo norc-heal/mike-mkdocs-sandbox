@@ -1,7 +1,9 @@
 #https://www.mkdocs.org/user-guide/configuration/#
 site_name: HEAL Platform Documentation
-site_url: https://norc-heal.github.io/heal-docs-template
-repo_url: https://github.com/norc-heal/heal-docs-template
+
+# Change site_url and repo_url to repo name
+site_url: https://norc-heal.github.io/mkdocs-sandbox
+repo_url: https://github.com/norc-heal/mkdocs-sandbox
 nav:
   - Home: index.md
   - Section 1: section1.md
