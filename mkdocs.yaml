@@ -1,5 +1,7 @@
 #https://www.mkdocs.org/user-guide/configuration/#
 site_name: HEAL Platform Documentation
+
+# Change site_url and repo_url to repo name
 site_url: https://norc-heal.github.io/mike-mkdocs-sandbox
 repo_url: https://github.com/norc-heal/mike-mkdocs-sandbox
 nav:
